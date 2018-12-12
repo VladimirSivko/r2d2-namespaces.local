@@ -3,5 +3,8 @@
 namespace core\controllers;
 
 class Main {
-    //put your code here
+    public $model;
+    public $view;
+    
+    
 }

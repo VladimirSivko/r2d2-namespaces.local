@@ -2,6 +2,8 @@
 
 namespace controllers;
 
-class Main {
+use \core\controllers\Main as ControllerMain;
+
+class Main extends ControllerMain{
     //put your code here
 }
